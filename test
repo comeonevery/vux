@@ -2,3 +2,7 @@
 2.git push oririn test
 3.git branch -d test
 4.git push origin :test
+
+1.git branch
+2.git branch -a
+3.git checkout test
